@@ -1,5 +1,5 @@
 ---
-description: https://invest.yay.network/
+description: The one stop platform for your YAY journey!
 ---
 
 # YAY Network Launchpad
