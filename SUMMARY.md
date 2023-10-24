@@ -1,16 +1,13 @@
 # Table of contents
 
 * [YAY Network](README.md)
-  * [YAY Network Intro](yay-network/yay-network-intro.md)
   * [YAY Network Services](yay-network/yay-network-services.md)
   * [YAY Network Launchpad](yay-network/yay-network-launchpad.md)
 * [Explore the Launchpad](explore-the-launchpad/README.md)
-  * [Navigation](explore-the-launchpad/navigation.md)
   * [Apply for Sales](explore-the-launchpad/apply-for-sales.md)
   * [Allocation Tracking](explore-the-launchpad/allocation-tracking.md)
   * [OTC Marketplace](explore-the-launchpad/otc-marketplace.md)
 * [How to KYC?](how-to-kyc/README.md)
-  * [Importance of KYC](how-to-kyc/importance-of-kyc.md)
   * [How to KYC](how-to-kyc/how-to-kyc.md)
   * [Data Usage Policy](how-to-kyc/data-usage-policy.md)
 * [Submit Your Project](submit-your-project/README.md)
