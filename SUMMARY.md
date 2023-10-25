@@ -8,7 +8,6 @@
   * [Allocation Tracking](explore-the-launchpad/allocation-tracking.md)
   * [OTC Marketplace](explore-the-launchpad/otc-marketplace.md)
 * [How to KYC?](how-to-kyc/README.md)
-  * [How to KYC](how-to-kyc/how-to-kyc.md)
   * [Data Usage Policy](how-to-kyc/data-usage-policy.md)
 * [Submit Your Project](submit-your-project/README.md)
   * [How to submit for a Sale?](submit-your-project/how-to-submit-for-a-sale.md)
