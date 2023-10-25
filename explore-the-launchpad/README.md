@@ -12,11 +12,11 @@ Begin your journey by registering on the YAY Network platform. Use [this link](h
 
 This step is essential for compliance purposes.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="188"><figcaption><p>YAY Network Launchpad Registration Page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="188"><figcaption><p>YAY Network Launchpad Registration Page</p></figcaption></figure>
 
 **Navigating the Launchpad:**
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>YAY Network Launchpad Deals Page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>YAY Network Launchpad Deals Page</p></figcaption></figure>
 
 After successful registration, navigating the platform is a breeze.&#x20;
 
