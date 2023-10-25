@@ -11,3 +11,5 @@ The platform, which we are incredibly proud of, offers an intuitive navigation s
 Our ambition is to deliver a smooth, all-encompassing user experience, and ensured that all pertinent details are unified on one platform, allowing you instant clarity on your sale status.
 
 The sale journey kicks off well before the actual sale day, so we've designed our platform to offer clarity right from the start, ensuring you're always informed about your standing every step of the way.
+
+Visit our launchpad at [https://invest.yay.network/](https://invest.yay.network/)

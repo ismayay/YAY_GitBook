@@ -1,3 +1,7 @@
+---
+description: YAY Network B2B list of services
+---
+
 # YAY Network Services
 
 At YAY Network, we recognize that every project is unique, deserving a tailored approach.

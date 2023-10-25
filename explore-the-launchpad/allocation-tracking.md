@@ -4,7 +4,7 @@ description: Track all your investments from a single dashboard
 
 # Allocation Tracking
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption><p>Portfolio Page from YAY Network Launchpad</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-24 at 10.46.43.png" alt=""><figcaption><p>Portfolio Page from YAY Network Launchpad</p></figcaption></figure>
 
 On the '**Portfolio Managemen**t' page, users are presented with a detailed snapshot of their portfolio. This space provides all pertinent information, including the current sale status and vesting particulars.&#x20;
 
