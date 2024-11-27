@@ -4,6 +4,7 @@
   * [YAY Network Services](yay-network/yay-network-services.md)
   * [YAY Network Launchpad](yay-network/yay-network-launchpad.md)
   * [Y Club](yay-network/y-club.md)
+  * [$YAY Tokenomics](yay-network/usdyay-tokenomics.md)
 * [How to Acquire YAY Token](how-to-acquire-yay-token/README.md)
   * [How is $YAY Token Scalable?](how-to-acquire-yay-token/how-is-usdyay-token-scalable.md)
 * [Explore the Launchpad](explore-the-launchpad/README.md)

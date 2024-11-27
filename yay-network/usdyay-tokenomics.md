@@ -1,0 +1,2 @@
+# $YAY Tokenomics
+
