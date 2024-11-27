@@ -1,7 +1,3 @@
----
-description: Welcome to YAY Network Gitbook.
----
-
 # YAY Network
 
 YAY Network stands at the forefront of the web3 evolution, bringing together a dynamic community of entrepreneurs and investors united by a collective conviction: blockchain is the driving force shaping our future. We offer innovators a robust and secure launchpad, enriched with state-of-the-art marketing and advisory solutions.
