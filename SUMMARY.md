@@ -1,16 +1,3 @@
 # Table of contents
 
-* [YAY Network](README.md)
-  * [YAY Network Services](yay-network/yay-network-services.md)
-  * [YAY Network Launchpad](yay-network/yay-network-launchpad.md)
-  * [Y Club](yay-network/y-club.md)
-  * [$YAY Tokenomics](yay-network/usdyay-tokenomics.md)
-* [How to Acquire YAY Token](how-to-acquire-yay-token/README.md)
-  * [How is $YAY Token Scalable?](how-to-acquire-yay-token/how-is-usdyay-token-scalable.md)
-* [Explore the Launchpad](explore-the-launchpad/README.md)
-  * [Allocation Tracking](explore-the-launchpad/allocation-tracking.md)
-  * [OTC Marketplace](explore-the-launchpad/otc-marketplace.md)
-  * [Apply for Sales](explore-the-launchpad/apply-for-sales.md)
-* [How to KYC?](how-to-kyc/README.md)
-  * [Data Usage Policy](how-to-kyc/data-usage-policy.md)
-* [Fundraise on YAY Network](fundraise-on-yay-network.md)
+* [$YAY Tokenomics](README.md)
