@@ -33,6 +33,8 @@ This repository provides a detailed breakdown of the YAY token allocation, vesti
 | Community Contests      | 9,460,000 YAY   | 2.7% released monthly                                           |
 | Airdrop at Launch       | 65,411,193 YAY  | 100% at TGE                                                     |
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>$YAY Tokenomics Pie Chart</p></figcaption></figure>
+
 ### Circulating Supply at Launch
 
 At the time of the Token Generation Event (TGE), the circulating supply of YAY tokens will be 142,336,442 YAY (14,23%)
