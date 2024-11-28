@@ -1,8 +1,8 @@
+---
+description: Introduction
+---
+
 # $YAY Tokenomics
-
-## YAY Tokenomics
-
-### Introduction
 
 The YAY Tokenomics is designed to foster a sustainable and equitable ecosystem for all stakeholders. With a total supply of 1 billion YAY tokens, our allocation strategy prioritizes community engagement, ecosystem growth, and long-term value creation. Each allocation is carefully planned with defined lock-ups and release schedules to maintain token stability and transparency.
 
