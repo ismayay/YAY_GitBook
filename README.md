@@ -43,6 +43,6 @@ At the current time, the circulating supply of YAY tokens is 951,625,000 YAY (95
 
 ### Contact and Feedback
 
-We welcome your feedback and suggestions! Please feel free to open an issue or submit a pull request if you notice any discrepancies.
+We welcome your feedback and suggestions! Please feel free to open an issue or submit a pull request if you notice any discrepancies: hello@yay.network
 
 \
