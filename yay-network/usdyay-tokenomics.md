@@ -1,8 +1,6 @@
----
-description: Introduction
----
-
 # $YAY Tokenomics
+
+### Introduction
 
 The YAY Tokenomics is designed to foster a sustainable and equitable ecosystem for all stakeholders. With a total supply of 1 billion YAY tokens, our allocation strategy prioritizes community engagement, ecosystem growth, and long-term value creation. Each allocation is carefully planned with defined lock-ups and release schedules to maintain token stability and transparency.
 
@@ -15,9 +13,6 @@ This repository provides a detailed breakdown of the YAY token allocation, vesti
 1,000,000,000 YAY
 
 ### Token Allocation
-
-\
-
 
 | Category                | Allocation      | Lock-up & Vesting Schedule                                      |
 | ----------------------- | --------------- | --------------------------------------------------------------- |
@@ -38,9 +33,6 @@ This repository provides a detailed breakdown of the YAY token allocation, vesti
 | Community Contests      | 9,460,000 YAY   | 2.7% released monthly                                           |
 | Airdrop at Launch       | 65,411,193 YAY  | 100% at TGE                                                     |
 
-\
-
-
 ### Circulating Supply at Launch:
 
 At the time of the Token Generation Event (TGE), the circulating supply of YAY tokens will be 142,336,442 YAY (14,23%)
@@ -48,9 +40,6 @@ At the time of the Token Generation Event (TGE), the circulating supply of YAY t
 ### Real-time Circulating Supply:
 
 At the current time, the circulating supply of YAY tokens is 951,625,000 YAY (95,16%)
-
-\
-
 
 ### Contact and Feedback
 
