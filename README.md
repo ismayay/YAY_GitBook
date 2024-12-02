@@ -41,7 +41,7 @@ At the time of the Token Generation Event (TGE), the circulating supply of YAY t
 
 ### Real-time Circulating Supply
 
-At the current time, the circulating supply of YAY tokens is 951,625,000 YAY (95,16%)
+At the current time, the circulating supply of YAY tokens is 627,746,250 YAY (62,76%)
 
 ### Contact and Feedback
 
